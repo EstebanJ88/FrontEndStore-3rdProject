@@ -266,7 +266,7 @@ h3 {
 }
 
 .formulario__submit {
-    background-color: var(--secundario);
+    background-color: var(--secundarioOscuro);
     border: none;
     font-size: 2rem;
     font-family: var(--fuentePrincipal);
@@ -277,7 +277,7 @@ h3 {
 
 .formulario__submit:hover {
     cursor: pointer;
-    background-color: var(--secundarioOscuro);
+    background-color: var(--secundario);
 }
 
 option {
