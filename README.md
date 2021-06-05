@@ -1,3 +1,3 @@
 # FrontEndStore-3rdProject
 
->> frontendstore-3rdproject.netlify.app
+>> https://frontendstore-3rdproject.netlify.app/
